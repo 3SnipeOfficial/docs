@@ -24,7 +24,7 @@ Copy-and-paste your accounts into 3Snipe. Press enter while it's blank to stop i
 
 ## Delay!?
 
-This waits x milliseconds after the droptime to snipe. Useful for beating other snipers.
+This removes x milliseconds before the droptime to snipe. Useful for beating other snipers.
 Next two options you should leave alone (unless you know what to do).
 
 ## No output.
